@@ -64,3 +64,12 @@ A service marketplace platform connecting customers with local service providers
 </p>
 
 ## Connect With Me
+<p align="left">
+<a href="https://github.com/Adarshr55">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="www.linkedin.com/in/adarsh-darshan">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
