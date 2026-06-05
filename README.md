@@ -55,8 +55,9 @@ A service marketplace platform connecting customers with local service providers
 🟡 Currently in Development
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Adarshr55&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adarshr55&layout=compact&theme=tokyonight)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adarshr55&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adarshr55&layout=compact&theme=tokyonight"/>
+</p>
 
 ## Connect With Me
