@@ -33,6 +33,26 @@ goal:
 </p>
 
 ## Current Project
+### 🚀 FixIt
+
+A service marketplace platform connecting customers with local service providers.
+
+#### Features
+- User Authentication
+- Customer Dashboard
+- Provider Dashboard
+- Service Booking
+- Location-Based Provider Discovery
+- Profile Management
+
+#### Tech Stack
+- Django REST Framework
+- PostgreSQL
+- React
+- Docker
+
+#### Status
+🟡 Currently in Development
 
 ## GitHub Stats
 
