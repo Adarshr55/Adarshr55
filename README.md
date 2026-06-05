@@ -1,5 +1,4 @@
 ## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adarshr55)](https://github.com/Adarshr55/github-readme-stats)
 <!--
 **Adarshr55/Adarshr55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
