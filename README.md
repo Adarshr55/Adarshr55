@@ -61,6 +61,11 @@ A service marketplace platform connecting customers with local service providers
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adarshr55&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adarshr55&layout=compact&theme=tokyonight"/>
 </p>
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adarshr55&theme=tokyonight&row=1&column=6" />
+</p>
 
 
 
@@ -76,4 +81,10 @@ A service marketplace platform connecting customers with local service providers
 </p>
 ## Contribution Snake
 
-![Snake animation](https://github.com/Adarshr55/Adarshr55/blob/output/github-contribution-grid-snake.svg)
+<h2>🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Adarshr55/Adarshr55/output/github-contribution-grid-snake.svg" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
