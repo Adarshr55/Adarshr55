@@ -27,7 +27,7 @@ goal:
 <h3>Languages & Tools</h3>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,postgres,git,github,docker,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,postgres,sql,git,github,docker,vscode,postman" />
 </p>
 
 ## Current Project
