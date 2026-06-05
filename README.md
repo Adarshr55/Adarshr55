@@ -30,7 +30,7 @@ goal:
 ## Tech Stack
 <h3>Languages & Tools</h3>
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,postgres,git,github,docker,vscode,postman" />
 </p>
 
@@ -62,9 +62,7 @@ A service marketplace platform connecting customers with local service providers
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adarshr55&layout=compact&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarshr55&theme=tokyonight" />
-</p>
+
 
 ## Connect With Me
 <p align="left">
