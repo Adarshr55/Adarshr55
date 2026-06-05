@@ -75,7 +75,7 @@ A service marketplace platform connecting customers with local service providers
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
-## Contribution Snake
+
 
 <h2>🐍 Contribution Snake</h2>
 
