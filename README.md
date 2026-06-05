@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adarsh R</h1>
 <h3 align="center">Aspiring Full Stack Developer from India</h3>
+
 About Me
 ```yaml
 name: Adarsh R
