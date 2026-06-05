@@ -1,5 +1,4 @@
-<img width="1592" height="787" alt="image" src="https://github.com/user-attachments/assets/9d819a1a-f99b-44c0-8ba0-098324c405b3" /><img width="1592" height="787" alt="image" src="https://github.com/user-attachments/assets/95788d26-e143-4d3e-b7fd-2ed7be7b1e20" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Adarsh%20R&fontSize=50&fontAlignY=35&animation=fadeIn"/>
+
 
 <h1 align="center">Hi 👋, I'm Adarsh R</h1>
 <h3 align="center">Aspiring Full Stack Developer from India</h3>
