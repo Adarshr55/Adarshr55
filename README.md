@@ -1,4 +1,4 @@
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Adarsh%20R&fontSize=50&fontAlignY=35&animation=fadeIn"/>
 
 <h1 align="center">Hi 👋, I'm Adarsh R</h1>
 <h3 align="center">Aspiring Full Stack Developer from India</h3>
