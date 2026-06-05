@@ -74,3 +74,6 @@ A service marketplace platform connecting customers with local service providers
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
+## Contribution Snake
+
+![Snake animation](https://github.com/Adarshr55/Adarshr55/blob/output/github-contribution-grid-snake.svg)
